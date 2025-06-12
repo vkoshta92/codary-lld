@@ -16,3 +16,12 @@
 
 //dependency -injection:-object pass kiya  as a variable kisi class me use bolte h dependency injection
 // if open close priciple is target , dependendency inversion is a solution.
+
+// l- resplacble to parent class
+// o- new feature add no efft old classc
+// -i-jo usefull ho vo rkha  client k eliye useful hi
+// d- hight level lowlevel ak sth na intrsct ho vo  kisio abstract clss se hoke gujre.
+// model class- iska kam  sirf crud operation kar rha h
+
+
+// principle of least knowlefge- class apne chiid  ko use krn na ki child ki child
