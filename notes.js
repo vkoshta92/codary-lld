@@ -1,4 +1,5 @@
 // abstraction-  means main behavaiur se matlb ho andr kya ho rha h janne ki jarurat hi  nhi h jse if else for isme andr kya ho rha h muje nhi jnnna ye bhi ak abstractin hai. data hinding
+//jasie if  else sb abstraction h jrurat nhi jnne ki  iske andr kya h
 // https://github.com/adityatandon15/LLD
 // Encapsulation-  data security
 
