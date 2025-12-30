@@ -108,7 +108,7 @@ int main() {
     withdrawableAccounts.push_back(new CurrentAccount());
 
     vector<DepositOnlyAccount*> depositOnlyAccounts;
-    depositOnlyAccounts.push_back(new FixedTermAccount());
+    depositOnlyAccounts.push_back(new FixedTermAccount()); // only deposit ko call krega.
 
     BankClient* client = new BankClient (withdrawableAccounts, depositOnlyAccounts);
     client->processTransactions();

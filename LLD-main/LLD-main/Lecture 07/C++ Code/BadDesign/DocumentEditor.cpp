@@ -25,7 +25,7 @@ public:
     string renderDocument() {
         if(renderedDocument.empty()) {
             string result;
-            for (auto element : documentElements) {
+            for (auto element : documentElements) {  // check image or text
                 if (element.size() > 4 && (element.substr(element.size() - 4) == ".jpg" ||
                  element.substr(element.size() - 4) == ".png")) {
                     result += "[Image: " + element + "]" + "\n";

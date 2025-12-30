@@ -1,17 +1,20 @@
 // abstraction-  means main behavaiur se matlb ho andr kya ho rha h janne ki jarurat hi  nhi h jse if else for isme andr kya ho rha h muje nhi jnnna ye bhi ak abstractin hai. data hinding
 //jasie if  else sb abstraction h jrurat nhi jnne ki  iske andr kya h
 // https://github.com/adityatandon15/LLD
-// Encapsulation-  data security
+// Encapsulation-  data security, car km oddometer cant change, access modifier bhar se use na kr pye usko bhar se private kr dete hai. but geeter setter se get and set kr skte h
 
 // polymorphysm-   ak metgod km alag , 
 // dynamic- 3 alag run () alg logo ke liye alg km krenge
 // stattuc - run (int speed)  speed ke hisab se alg sitiation me alg trh se bhgega.
 
+// overloading-  static polymorphism- name same return sme nu of argumaent kam jyda
+//overriding-  dynamic polymorphism-return type arrgyment type of argument sb same hona chiye
+
 // what is operator-overloading in c++ kyoki aur kisi me nhi hota h ye.
 // imutable class- final  lga do class ke age immutable bn jega and  jise koi inherit na kr paye
 // imutable method- final  lga do method ke age immutable bn jega and  jise koi inherit na kr paye
 
-
+// ... what is opertaor overloading
 
 // isp- shape 2 alag alg banne pdenge 2d and 3d  kykki bhut se me area  volume nhi hota h
 

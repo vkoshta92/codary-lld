@@ -70,3 +70,5 @@ int main() {
     
     return 0;
 }
+
+// manager ceo / develop  ceo ko manger se km krwba h deverloper che chge ho.

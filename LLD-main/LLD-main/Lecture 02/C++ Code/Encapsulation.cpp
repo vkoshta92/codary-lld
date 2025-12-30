@@ -47,6 +47,7 @@ public:
     }
 
     void setTyreCompany(string tyreCompany) {
+        // validations
         this->tyreCompany = tyreCompany;
     }
 

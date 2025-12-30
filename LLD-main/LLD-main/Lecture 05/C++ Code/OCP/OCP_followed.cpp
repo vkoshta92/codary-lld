@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+//infetcs 
 using namespace std;
 
 // Product class representing any item in eCommerce.
